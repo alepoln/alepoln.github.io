@@ -2,4 +2,4 @@ title: Alex Polonsky
 description: My AOS C111 project site
 logo: /assets/IMG/template_logo.png
 show_downloads: true
-theme: minima
+theme: jekyll-theme-minimal
