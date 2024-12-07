@@ -1,6 +1,6 @@
 **Welcome to Alex's AOS C111 final project!** 
 
-**Predicting Malaria Paracitization in White Blood Cells with Machine Learning**
+**Predicting Malaria Paracitization in Blood Smears with Machine Learning**
 
 Here is the [link to my report](https://docs.google.com/document/d/1WLO_isLUNnxPzU0TJxiFpjXGLknhxSkkWxcDnG-spxk/edit?usp=sharing)
 
